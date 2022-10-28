@@ -51,10 +51,10 @@ main{
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 100%;
-    width: 100%;
 }
-
+.mainphoto{
+    width: 215vh;
+}
 footer{
     position: absolute;
     background: #fff;
